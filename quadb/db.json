@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "title": "Hello world",
+      "body": "Hii",
+      "datetime": "Last Sync: 11/10/2021 @ 22:42:0",
+      "location": "India,Mumbai",
+      "like": true,
+      "id": 5
+    }
+  ]
+}
